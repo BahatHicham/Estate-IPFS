@@ -1,0 +1,45 @@
+
+
+
+.loginform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    // background-color: #f9f9f9;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgba(241, 250, 255, 0.959);
+   
+    // background-image: url('../../public/images/loginbg.jpg') ;
+    opacity: 0.9;
+
+}
+ 
+.username {
+    text-align: center;
+    height: 2em;
+    width: 100%;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    // background-color: rgb(76, 100, 43);
+
+}
+  .password {
+    text-align: center;
+    height: 2em;
+    width: 100%;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    // background-color: rgb(76, 100, 43);
+
+}
