@@ -1,9 +1,18 @@
-
+![image](https://github.com/user-attachments/assets/d3f340be-2a87-48bb-962a-0ffee590bb34)
 # Estate-IPFS
 Listing Application with Decentralized Storage (Pinata IPFS)
+## Key Features and Benefits:
+
+<h3 align="left">Decentralized Storage:</h3> Integrated Pinata IPFS to securely store listings and files in a decentralized manner, reducing reliance on traditional centralized servers.
+
+<h3 align="left">Immutable Data:</h3> Ensured data integrity by utilizing IPFS, where listings and files are immutable, guaranteeing that the stored data cannot be altered.
+
+<h3 align="left">Scalable:</h3> Leveraged IPFS for storage, enabling the system to handle large amounts of data without needing centralized servers or databases, providing a scalable solution.
+
+<h3 align="left">User-Friendly:</h3> Implemented a dynamic search feature, allowing users to search for listings by location. This improved user experience by allowing easy interaction with the data of interest.
 
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
