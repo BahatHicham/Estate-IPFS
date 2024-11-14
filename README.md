@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3f340be-2a87-48bb-962a-0ffee590bb34)
+
 # Estate-IPFS
 Listing Application with Decentralized Storage (Pinata IPFS)
 ## Key Features and Benefits:
